@@ -1,4 +1,4 @@
-couleurs-fr is a package french names of xcolor schemes.
+couleurs-fr is a package with french names of xcolor schemes.
 ---------------------------------------------------------------------------
 couleurs-fr est un package avec les versions francisées de couleurs xcolor.
 ---------------------------------------------------------------------------
